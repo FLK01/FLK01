@@ -105,4 +105,9 @@ FLK01/PIZZA-CUP
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLKO1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FLK01/FLK01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FLK01/FLK01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FLK01/FLK01/output/pacman-contribution-graph.svg">
+</picture>
 </p>
