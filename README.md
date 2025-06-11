@@ -79,7 +79,7 @@ trabalhar em equipe.
 <br/>
 Portfolio:
 
-FLK01/PIZZA-CUP 
+(https://github.com/FLK01/PIZZA-CUP)
 
 <!-- GIF -->
 <p align="left">
